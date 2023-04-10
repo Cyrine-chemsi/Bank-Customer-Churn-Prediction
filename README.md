@@ -1,6 +1,6 @@
 # Welcome !
 
-![churn](../images/Customer-Churn.PNG)
+![c](https://www.cleartouch.in/wp-content/uploads/2022/11/Customer-Churn.png)
 
 **Customer churn**, also known as customer attrition, refers to the phenomenon in which customers stop doing business with a company. Customer churn is a significant concern for companies, as it can have a significant impact on their bottom line. 
 In recent years, a variety of models have been developed to help companies predict and prevent customer churn. 
