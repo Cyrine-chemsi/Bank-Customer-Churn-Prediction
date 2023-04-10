@@ -1,11 +1,13 @@
 # Welcome !
 
+<img src="../images/Customer-Churn.PNG" alt="churn" />
+
 **Customer churn**, also known as customer attrition, refers to the phenomenon in which customers stop doing business with a company. Customer churn is a significant concern for companies, as it can have a significant impact on their bottom line. 
 In recent years, a variety of models have been developed to help companies predict and prevent customer churn. 
 In this repository, you find all that you need to get started with the Customer Churn Problem using a simple example from Kaggle. We will start with analyzing the data, preprocessing the features, then building the ML models to predict the churn.
 
 
-# About Dataset
+# About the Dataset
 
 This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer. 
 
